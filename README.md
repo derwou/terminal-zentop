@@ -1,4 +1,4 @@
-# Terminal-ZenTop
+# Terminal ZenTop
 Interactive terminal shell extension for ZenTop.
 
 ## ⚠️ Important Notice
